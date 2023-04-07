@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "@mailchain/sdk": "^0.18.3"
+    "@mailchain/sdk": "^0.18.3",
+    "@types/passport": "^1.0.12",
+    "@types/passport-http-bearer": "^1.0.37",
+    "passport": "^0.6.0",
+    "passport-http-bearer": "^1.0.1"
   }
 }
