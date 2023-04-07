@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@mailchain/sdk": "^0.18.3"
+  }
+}
