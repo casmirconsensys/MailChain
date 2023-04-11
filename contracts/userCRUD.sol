@@ -196,6 +196,4 @@ contract UserCrud {
     {
         return userIndex[index];
     
-
-
 }
